@@ -1,0 +1,7 @@
+batch syntax = https://www.tutorialspoint.com/batch_script/batch_script_syntax.htm
+bash syntax = https://devhints.io/bash
+bash color  = https://www.tecmint.com/customize-bash-colors-terminal-prompt-linux/
+bash date = https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/
+https://www.tecmint.com/category/bash-shell/
+stackoverflow = https://stackoverflow.com/
+our drive = https://drive.google.com/drive/u/1/folders/1r9jaWJT0mLyAC_Ff0Y9Du0ykFrv2qFmf
